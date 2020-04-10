@@ -15,7 +15,7 @@ You are not allowed to collaborate during the Sprint Challenge. However, you are
 
 In this challenge, you build a missing header (navigation and image) on the home page, update some CSS styling on the home page, and make your page responsive for mobile. You will be working with a pre-existing web page, allowing you to get a taste of what it is like to inherit code from someone else, as will regularly happen on the job.
 
-In meeting the minimum viable product (MVP) specifications listed below, your web page should look like the solution screen shots of the home page and mobile version. 
+In meeting the minimum viable product (MVP) specifications listed below, your web page should look like the solution screen shots of the home page and mobile version.
 
  [Click here for home page example](https://tk-assets.lambdaschool.com/39a49225-8ac9-43da-aa90-514fd60ae99a_sprint-challenge-ui-home-example.png)
 
@@ -33,13 +33,24 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
 
+
+Semantic HTML describes meaningful HTML code. It utilizes semantic html tags such as header, form, footer, section to gives clear meaning to the browser / SEO, developers and those who navigates the site. Non-semeantic tags are such as div and span, these provides no specific meaning to its content.
+
 2. What are the 4 areas of the box model?
+
+Margin, Border, Padding, Content
 
 3. While using flexbox, what axis does the following property work on: ```align-items: center```?
 
+Cross-axis (row)
+
 4. Explain why git is valuable to a team of developers.
 
+Git allows for multiple developers to work on a project, create their own branches, contribute, review and eventually push their work into the final project.
+
 5. Define mobile-first design in your own words.
+
+Mobile-first design means creating a website (design) with mobile in mind first, this means that the website will be scaled up instead of scaled down in the case of desktop-first design. Uses min-width to scale up the content.
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
@@ -86,7 +97,7 @@ In your solution, it is essential that you follow best practices and produce cle
 
 After finishing your required elements, you can push your work further. These goals may or may not be things you have learned in this module but they build on the material you just studied. Time allowing, stretch your limits and see if you can deliver on the following optional goals:
 
-* [ ] Build a page of your choosing from the navigation items.  Come up with content and images that fit the theme.  
+* [ ] Build a page of your choosing from the navigation items.  Come up with content and images that fit the theme.
 * [ ] Introduce CSS animations to your site.
 * [ ] Build a contact page and create a form with several inputs of your choosing
 

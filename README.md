@@ -34,14 +34,11 @@ Edit this document to include your answers after each question. Make sure to lea
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
 
 
-Semantic HTML describes meaningful HTML code. It utilizes semantic html tags such as <header> <form> <footer> <section> to gives clear meaning to the browser / SEO, developers and those who navigates the site. Non-semeantic tags are such as <div> and <span>, these provides no specific meaning to its content.
+Semantic HTML describes meaningful HTML code. It utilizes semantic html tags such as header, form, footer, section to gives clear meaning to the browser / SEO, developers and those who navigates the site. Non-semeantic tags are such as div and span, these provides no specific meaning to its content.
 
 2. What are the 4 areas of the box model?
 
-Margin
-Border
-Padding
-Content
+Margin, Border, Padding, Content
 
 3. While using flexbox, what axis does the following property work on: ```align-items: center```?
 
@@ -53,7 +50,7 @@ Git allows for multiple developers to work on a project, create their own branch
 
 5. Define mobile-first design in your own words.
 
-Mobile-first design means creating a website (design) with mobile in mind first, this means that the website will be scaled up instead of scaled down in the case of desktop-first design. Uses min-width to scale up the content
+Mobile-first design means creating a website (design) with mobile in mind first, this means that the website will be scaled up instead of scaled down in the case of desktop-first design. Uses min-width to scale up the content.
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
